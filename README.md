@@ -1,2 +1,2 @@
 # p5js-boilerplate
-Boilerplate repo for p5js projects!
+A boilerplate app for [p5js](https://p5js.org/) projects!
